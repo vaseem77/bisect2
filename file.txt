@@ -3,3 +3,7 @@ feature2
 feature3
 feature4
 feature5
+bug1
+bug2
+bug3
+bug4
